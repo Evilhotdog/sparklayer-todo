@@ -59,6 +59,13 @@
   margin: 0px 100px 50px 100px;
 }
 
+.alert {
+  background-color: #f44336;
+  padding: 8px;
+  border-radius: 5px;
+}
+
+
 button {
   background-color: #326ac7;
   color: white;
@@ -106,3 +113,4 @@ form {
 h2 {
   margin: 0;
 }
+
